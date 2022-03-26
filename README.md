@@ -33,12 +33,12 @@
 
 ## About The Project
 
-
+A collection of small python tasks, with the intention of improving my programming skills, and showing them off to the world. This is where I will store most of my small projects, and look for support from users with more experience than me.
 
 
 ## Bugs, Issues And Requests
-Please report any issue or bugs [here](https://github.com/Jacrac04/DFM-Bot/issues/new/choose)
-See the [open issues](https://github.com/Jacrac04/DFM-Bot/issues) for a list of proposed features (and known issues).
+Please report any issue or bugs [here](https://github.com/olliegroth/PythonProgrammingPractise/issues/new)
+See the [open issues](https://github.com/olliegroth/PythonProgrammingPractise/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -51,7 +51,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Todo 
 
-- [x] Add
-- [ ] Do 
+- [x] Create and complete bubble sort algorithm
+- [ ] Add a delay, allowing a visualiation of the sorting
+- [ ] Start planning merge sort algorithm
 
 ## Contact Me 
+
+If you wish to contact me, please email me via olliegroth2004@gmail.com
