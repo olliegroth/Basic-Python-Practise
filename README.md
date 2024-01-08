@@ -7,7 +7,7 @@
   <h3 align="center">Programming Practice</h3>
 
   <p align="center">
-    A collection of my beginning programming works
+    A collection of some basic python programming works
     <br />
     <a href="https://github.com/olliegroth/PythonProgrammingPractise/issues">Report Bug</a>
     ·
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-A collection of small python tasks, with the intention of improving my programming skills, and showing them off to the world. This is where I will store most of my small projects, and look for support from users with more experience than me.
+A collection of small python tasks, with the intention of testing and developing my programming skills. This repo was mainly worked upon during the end of my GCSE's and the start of my A-Level study.
 
 
 ## Bugs, Issues And Requests
@@ -48,12 +48,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Todo 
-
-- [x] Create and complete bubble sort algorithm
-- [ ] Add a delay, allowing a visualiation of the sorting
-- [ ] Start planning merge sort algorithm
 
 ## Contact Me 
 
