@@ -7,11 +7,7 @@
   <h3 align="center">Programming Practice</h3>
 
   <p align="center">
-    A collection of some basic python programming works
-    <br />
-    <a href="https://github.com/olliegroth/PythonProgrammingPractise/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/olliegroth/PythonProgrammingPractise/issues">Request Feature</a>
+    A collection of some basic python programming works.
   </p>
 </p>
 
@@ -24,7 +20,6 @@
     </li>
     <li><a href="#bugs-issues-and-requests">Bugs, Issues And Requests</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#todo">Todo</a></li>
     <li><a href="#contact-me">Contact Me</a></li>
   </ol>
 </details>
