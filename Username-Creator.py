@@ -6,7 +6,7 @@ def username():
         splitName = name.split(" ")
         generatedUsername = f'{str(splitName[0])}.{str(splitName[1])}'
         print(f'Your username is: {generatedUsername}')
-    except: # Use regex to make sure users enter their name in name (space) surname format :)
+    except: # Use regex to make sure users enter their name in name (space) surname format
         print("Please use a space in your name\n")
 
 while True:
