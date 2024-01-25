@@ -9,8 +9,6 @@
   <p align="center">
     A collection of some basic python programming works.
   </p>
-</p>
-
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
